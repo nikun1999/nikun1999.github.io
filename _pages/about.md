@@ -46,7 +46,7 @@ redirect_from:
 
 -	[1] `Ni, Kun`; Ren, Q.; Zhang, X.; Liu, R.  
 A trilayer nanofluidic ionic diode for high-performance moisture-enabled energy harvesting and ionic logic operations.  
-**Adv. Mater.** 2023, 37, 2513405. Accepted    
+**Adv. Mater.** 2025, 37, 2513405. Accepted    
 
 -	[2] `Ni, Kun`; Ren, Q.; Liu, S.; Sun, B.; Lai, Y.-C.; Zhang, X.; Liu, R.  
 Advances in asymmetric moist-electric generators with innovative heterogeneous structures.  
