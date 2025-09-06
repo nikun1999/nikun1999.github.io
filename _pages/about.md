@@ -22,7 +22,11 @@ redirect_from:
 
 研究兴趣与方向：
 - 
-- 能量捕获♻	- 离子输运💨	- 离子电子学⚡	- 氧化石墨烯💫
+- 氧化石墨烯💫
+- 能量捕获♻	
+- 离子输运💨	
+- 离子电子学⚡	
+
 
   
 
@@ -30,9 +34,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历 (本科-至今)
-- *2025.09 - 至今*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="23pt"></a> 苏州大学 新能源科学与工程, 博士研究生 
-- *2022.09 - 2025.06*, <a href="https://www.suda.edu.cn/"><img class="svg" src="/images/SUDA_logo.svg" width="23pt"></a> 苏州大学 新能源科学与工程, 硕士研究生 
-- *2018.09 - 2022.06*, <a href="https://www.suda.edu.cn/"><img class="svg" src="/images/SUDA_logo.svg" width="23pt"></a> 苏州大学 新能源材料与器件, 本科生
+- *2025.09 - 至今*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="21pt"></a> 苏州大学 新能源科学与工程, 博士研究生 
+- *2022.09 - 2025.06*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="21pt"></a> 苏州大学 新能源科学与工程, 硕士研究生 
+- *2018.09 - 2022.06*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="21pt"></a> 苏州大学 新能源材料与器件, 本科生
  
 <span class='anchor' id='-lwzl'></span>
 
