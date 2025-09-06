@@ -44,43 +44,43 @@ redirect_from:
 ### Journals
 ---
 
--	[1] `Ni, Kun`; Ren, Q.; Zhang, X.*; Liu, R.*
-A trilayer nanofluidic ionic diode for high-performance moisture-enabled energy harvesting and ionic logic operations.
+-	[1] `Ni, Kun`; Ren, Q.; Zhang, X.*; Liu, R.*  
+A trilayer nanofluidic ionic diode for high-performance moisture-enabled energy harvesting and ionic logic operations.  
 `Adv. Mater.` 2023, 37, 2513405. Accepted    
 
--	[2] `Ni, Kun`; Ren, Q.; Liu, S.; Sun, B.; Lai, Y.-C.; Zhang, X.; Liu, R.*
+-	[2] `Ni, Kun`; Ren, Q.; Liu, S.; Sun, B.; Lai, Y.-C.; Zhang, X.; Liu, R.*  
 Advances in asymmetric moist-electric generators with innovative heterogeneous structures.
 `Energy Environ. Sci.` 2024, 17 (24), 9406-9424.  
 [[网页]](https://doi.org/10.1039/D4EE02252A) 
 
--	[3] `Ni, Kun`; Xu, B.; Wang, Z.; Ren, Q.; Gu, W.; Sun, B.; Liu, R.*; Zhang, X.*
-Ion-diode-like heterojunction for improving electricity generation from water droplets by capillary infiltration.
+-	[3] `Ni, Kun`; Xu, B.; Wang, Z.; Ren, Q.; Gu, W.; Sun, B.; Liu, R.*; Zhang, X.*  
+Ion-diode-like heterojunction for improving electricity generation from water droplets by capillary infiltration.  
 `Adv. Mater.` 2023, 35 (40), 2305438.  
 [[网页]](https://doi.org/10.1002/adma.202305438)  
 
--	[4] Ren Q.; `Ni Kun`; Wang Z.; Zhang C.; Liu S.; Liu R.; Zhang X.
-Nanoporous Hydrogels with Tunable Pore Size for Efficient Hydrovoltaic Electricity Generation.
-Adv. Mater. 2025, 2508391. Accepted
-[[网页]](https://doi.org/10.1002/adma.202508391)
+-	[4] Ren Q.; `Ni Kun`; Wang Z.; Zhang C.; Liu S.; Liu R.*; Zhang X.  
+Nanoporous Hydrogels with Tunable Pore Size for Efficient Hydrovoltaic Electricity Generation.  
+Adv. Mater. 2025, 2508391. Accepted  
+[[网页]](https://doi.org/10.1002/adma.202508391) 
 
--	[5] Wang, Y.; Yuan, X.; `Ni, Kun`; Song, Y.; Li, X.; Zeng, X.; Shao, B.*; Sun, B.*
-3D dendritic hierarchically gradient nanoflowers in situ grown on conductive substrates for efficient hydrovoltaic power generation.
+-	[5] Wang, Y.; Yuan, X.; `Ni, Kun`; Song, Y.; Li, X.; Zeng, X.; Shao, B.*; Sun, B.*  
+3D dendritic hierarchically gradient nanoflowers in situ grown on conductive substrates for efficient hydrovoltaic power generation.  
 `Energy Environ. Sci.` 2024, 17 (13), 4780-4793.  
 [[网页]](https://doi.org/10.1039/D4EE00828F) 
 
--	[6] Duan, W.; Shao, B.; Wang, Z.; `Ni, Kun`; Liu, S.; Yuan, X.; Wang, Y.; Sun, B.; Zhang, X.; Liu, R.*
-Silicon nanowire/ionic hydrogel-based hybrid moist-electric generators with enhanced voltage output and operational stability.
+-	[6] Duan, W.; Shao, B.; Wang, Z.; `Ni, Kun`; Liu, S.; Yuan, X.; Wang, Y.; Sun, B.; Zhang, X.; Liu, R.*  
+Silicon nanowire/ionic hydrogel-based hybrid moist-electric generators with enhanced voltage output and operational stability.  
 `Energy Environ. Sci.` 2024, 17 (11), 3788-3796.  
 [[网页]](https://doi.org/10.1039/D4EE00171K) 
 
--	[7] Wang, Y.; Wu, H.; Gao, H.; Ren Q.; `Ni, Kun`; Liu, S.; Ma, W.; Wang, J.*; Liu, Z.*; Liu, R.*
-Hybrid thin film encapsulation for improving the stability of PbS quantum dot solar cells.
+-	[7] Wang, Y.; Wu, H.; Gao, H.; Ren Q.; `Ni, Kun`; Liu, S.; Ma, W.; Wang, J.*; Liu, Z.*; Liu, R.*  
+Hybrid thin film encapsulation for improving the stability of PbS quantum dot solar cells.  
 Small 2024, 20 (45), 2404984.  
 [[网页]](https://doi.org/10.1002/smll.202404984) 
 
--	[8] Gao L.; Wang Z.; Zen Y.; Wang Y.; Ren Q.; Ding Z.; `Ni Kun`; Tang J.; Zhang C.; Wang Y.; Zhou Y.; Hui J.; Lu Q.; Liu R.*; Zhang X.,
-A flexible, bioadhesive, and breathable on-skin battery based on silk fibroin hydrogel for wearable electronics.
-Adv. Funct. Mater. 2024, 34 (51), 2410140.
+-	[8] Gao L.; Wang Z.; Zen Y.; Wang Y.; Ren Q.; Ding Z.; `Ni Kun`; Tang J.; Zhang C.; Wang Y.; Zhou Y.; Hui J.; Lu Q.; Liu R.*; Zhang X.  
+A flexible, bioadhesive, and breathable on-skin battery based on silk fibroin hydrogel for wearable electronics.  
+Adv. Funct. Mater. 2024, 34 (51), 2410140.  
 [[网页]](https://doi.org/10.1002/adfm.202410140) 
 
 
