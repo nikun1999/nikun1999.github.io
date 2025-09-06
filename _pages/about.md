@@ -44,9 +44,9 @@ redirect_from:
 ### Journals
 ---
 
--	[1] `**Ni, Kun**`; Ren, Q.; Zhang, X.; Liu, R.  
+-	[1] `Ni, Kun`; Ren, Q.; Zhang, X.; Liu, R.  
 A trilayer nanofluidic ionic diode for high-performance moisture-enabled energy harvesting and ionic logic operations.  
-**Adv. Mater.** 2023, 37, 2513405. Accepted    
+`#0969DA`**Adv. Mater.** 2023, 37, 2513405. Accepted    
 
 -	[2] `Ni, Kun`; Ren, Q.; Liu, S.; Sun, B.; Lai, Y.-C.; Zhang, X.; Liu, R.  
 Advances in asymmetric moist-electric generators with innovative heterogeneous structures.  
@@ -74,7 +74,7 @@ Hybrid thin film encapsulation for improving the stability of PbS quantum dot so
 
 -	[8] Gao L.; Wang Z.; Zen Y.; Wang Y.; Ren Q.; Ding Z.; `Ni Kun`; Tang J.; Zhang C.; Wang Y.; Zhou Y.; Hui J.; Lu Q.; Liu R.; Zhang X.  
 A flexible, bioadhesive, and breathable on-skin battery based on silk fibroin hydrogel for wearable electronics.  
-**Adv. Funct. Mater.* 2024, 34 (51), 2410140. [[网页]](https://doi.org/10.1002/adfm.202410140) 
+**Adv. Funct. Mater.** 2024, 34 (51), 2410140. [[网页]](https://doi.org/10.1002/adfm.202410140) 
 
 
 
