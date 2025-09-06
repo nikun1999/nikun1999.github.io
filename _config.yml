@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "倪坤 | nikun"
-description              : "个人学术主页"
+title                    : "倪坤 (nikun)"
+description              : "✅个人学术主页"
 repository               : "https://nikun1999.github.io/"
 google_scholar_stats_use_cdn : false
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "倪坤 | nikun"
+  name             : "倪坤 (nikun)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "苏州大学 | Soochow University"
+  bio              : "苏州大学|Soochow University"
   location         : "江苏省苏州市姑苏区"
   employer         : #"苏州大学 | Soochow University"
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://nikun1999.github.io/"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
