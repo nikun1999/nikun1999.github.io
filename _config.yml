@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "唐健"
-description              : "电磁无损检测"
-repository               : "yuanbo-gmail/yuanbo-gmail.github.io"
+title                    : "nikun (倪坤)"
+description              : "HOMEPAGE"
+repository               : "nikun1999/nikun1999.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "唐健"
+  name             : "nikun (倪坤)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "Soochow University (苏州大学)"
+  location         : "Suzhou (江苏省苏州市)"
+  employer         : #"Soochow University (苏州大学)"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?user=15QpPTYAAAAJ&hl=zh-CN"
+  email            : "nikun1999@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Kun-Ni-4?ev=hdr_xprf"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "nikun1999"
   google_plus      :
   keybase          :
   instagram        :
