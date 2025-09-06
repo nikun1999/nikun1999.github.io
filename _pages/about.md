@@ -30,7 +30,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历 (本科-至今)
-- *2025.09 - 至今*, <a href="https://www.suda.edu.cn/"><img class="svg" src="/images/SUDA_logo.svg" width="23pt"></a> 苏州大学 新能源科学与工程, 博士研究生 
+- *2025.09 - 至今*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="23pt"></a> 苏州大学 新能源科学与工程, 博士研究生 
 - *2022.09 - 2025.06*, <a href="https://www.suda.edu.cn/"><img class="svg" src="/images/SUDA_logo.svg" width="23pt"></a> 苏州大学 新能源科学与工程, 硕士研究生 
 - *2018.09 - 2022.06*, <a href="https://www.suda.edu.cn/"><img class="svg" src="/images/SUDA_logo.svg" width="23pt"></a> 苏州大学 新能源材料与器件, 本科生
  
@@ -49,7 +49,7 @@ A trilayer nanofluidic ionic diode for high-performance moisture-enabled energy 
 Advances in asymmetric moist-electric generators with innovative heterogeneous structures.  
 **Energy Environ. Sci.** 2024, 17 (24), 9406-9424. [[📁链接]](https://doi.org/10.1039/D4EE02252A) 
 
--	[3] `Ni, Kun`; Xu, B.; Wang, Z.; Ren, Q.; Gu, W.; Sun, B.; Liu, R.*; Zhang, X.*  
+-	[3] `Ni, Kun`; Xu, B.; Wang, Z.; Ren, Q.; Gu, W.; Sun, B.; Liu, R.; Zhang, X.  
 Ion-diode-like heterojunction for improving electricity generation from water droplets by capillary infiltration.  
 **Adv. Mater.** 2023, 35 (40), 2305438. [[📁链接]](https://doi.org/10.1002/adma.202305438)  
 
