@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-大家好！我目前就读于苏州大学，是一名新能源科学与工程专业的博士研究生 <a href='https://scholar.google.com/citations?user=15QpPTYAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)。  
+大家好！我目前就读于苏州大学，是一名新能源科学与工程专业的博士研究生 <a href='https://scholar.google.com/citations?user=15QpPTYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。  
 
-研究兴趣与方向：
+RESEARCH INTERESTS：
 - 
 - 氧化石墨烯💫
 - 能量捕获♻	
@@ -32,7 +32,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历 (本科-至今)
+# 🎓 EDUCATIONS (本科-至今)
 - *2025.09 - 至今*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="18pt"></a> 苏州大学 新能源科学与工程, 博士研究生 
 - *2022.09 - 2025.06*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="18pt"></a> 苏州大学 新能源科学与工程, 硕士研究生 
 - *2018.09 - 2022.06*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="18pt"></a> 苏州大学 新能源材料与器件, 本科生
@@ -109,7 +109,7 @@ A flexible, bioadhesive, and breathable on-skin battery based on silk fibroin hy
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
+# 🏅 AWARDS
 - *2025.04* 获得 苏州大学2024-2025年度苏州大学优秀毕业生 
 - *2025.03* 获得 苏州大学2025年“挑战杯”大学生课外学术科技作品竞赛一等奖  
 - *2024.12* 获得 苏州大学2024年硕士研究生`国家奖学金`  
@@ -120,7 +120,7 @@ A flexible, bioadhesive, and breathable on-skin battery based on silk fibroin hy
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
+# 🏛️ MEETINGS
 - *2024.10* 参加 2024年北京石墨烯研究院北京石墨烯论坛, 北京海淀
 - *2023.10* 参加 2023年北京石墨烯研究院北京石墨烯论坛, 北京海淀
 - *2023.05* 参加 2023年中国微米纳米技术学会柔性电子技术与应用创新论坛, 江苏苏州

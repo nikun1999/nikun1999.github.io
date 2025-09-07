@@ -1,7 +1,10 @@
 # main links links
 main:
+  - title: "ABOUT-ME"
+    url: "/#-about-me"
+
   - title: "EDUCATIONS"
-    url: "/#xl"
+    url: "/#-xl"
 
   - title: "PUBLICATIONS"
     url: "/#-lwzl"
