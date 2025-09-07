@@ -44,18 +44,36 @@ redirect_from:
 
 ### JOURNALS
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2025</div><img src='images/Figure_ToC_pin.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 -	[1] `Ni, Kun`; Ren, Q.; Zhang, X.; Liu, R.  
 A trilayer nanofluidic ionic diode for high-performance moisture-enabled energy harvesting and ionic logic operations.  
 **Adv. Mater.** 2025, 37, 2513405. Accepted    
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy & Environmental Science 2024</div><img src='images/d4ee90116a_page-0001.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 -	[2] `Ni, Kun`; Ren, Q.; Liu, S.; Sun, B.; Lai, Y.-C.; Zhang, X.; Liu, R.  
 Advances in asymmetric moist-electric generators with innovative heterogeneous structures.  
 **Energy Environ. Sci.** 2024, 17 (24), 9406-9424. [[📁链接]](https://doi.org/10.1039/D4EE02252A) 
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2023</div><img src='images/adma202305438-gra-0001-m.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 -	[3] `Ni, Kun`; Xu, B.; Wang, Z.; Ren, Q.; Gu, W.; Sun, B.; Liu, R.; Zhang, X.  
 Ion-diode-like heterojunction for improving electricity generation from water droplets by capillary infiltration.  
 **Adv. Mater.** 2023, 35 (40), 2305438. [[📁链接]](https://doi.org/10.1002/adma.202305438)  
+
+</div>
+</div>
+
 
 -	[4] Ren Q.; `Ni Kun`; Wang Z.; Zhang C.; Liu S.; Liu R.; Zhang X.  
 Nanoporous Hydrogels with Tunable Pore Size for Efficient Hydrovoltaic Electricity Generation.  
