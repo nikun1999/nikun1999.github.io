@@ -44,7 +44,7 @@ redirect_from:
 
 ### JOURNALS
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2025</div><img src='images/Figure_ToC_pin.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2025</div><img src='images/Figure_ToC_pin.svg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[1] `Ni, Kun`; Ren, Q.; Zhang, X.; Liu, R.  
@@ -54,7 +54,7 @@ A trilayer nanofluidic ionic diode for high-performance moisture-enabled energy 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy & Environmental Science 2024</div><img src='images/d4ee90116a_page-0001.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy & Environmental Science 2024</div><img src='images/d4ee90116a_page-0001.svg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[2] `Ni, Kun`; Ren, Q.; Liu, S.; Sun, B.; Lai, Y.-C.; Zhang, X.; Liu, R.  
@@ -64,7 +64,7 @@ Advances in asymmetric moist-electric generators with innovative heterogeneous s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2023</div><img src='images/adma202305438-gra-0001-m.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2023</div><img src='images/adma202305438-gra-0001-m.svg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[3] `Ni, Kun`; Xu, B.; Wang, Z.; Ren, Q.; Gu, W.; Sun, B.; Liu, R.; Zhang, X.  
