@@ -41,14 +41,13 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 PUBLICATIONS (2023-至今)
----
 ### 第一作者论文发表统计：Adv. Mater. (2篇)、Energy & Environ. Sci. (1篇)  
 
 ### 共同作者论文发表统计：Adv. Mater. (1篇)、Energy & Environ. Sci. (2篇)、Adv. Funct. Mater. (1篇)  
 ---
-### JOURNALS (加#为共同第一作者，*为通讯作者)
+### PUBLISHED JOURNALS (加#为共同第一作者，*为通讯作者)
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADVANCED MATERIALS (RESEARCH ARTICLE)</div><img src='images/Figure_ToC_pin.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADVANCED MATERIALS (RESEARCH ARTICLE)</div><img src='images/Figure_ToC_pin.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[1] `Ni, Kun`; Ren, Q.; Zhang, X.; Liu, R.  
@@ -58,7 +57,7 @@ A trilayer nanofluidic ionic diode for high-performance moisture-enabled energy 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENERGY & ENVIRONMENTAL SCIENCE (BACK COVER)</div><img src='images/d4ee90116a_page-0001.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ENERGY & ENVIRONMENTAL SCIENCE (BACK COVER)</div><img src='images/d4ee90116a_page-0001.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[2] `Ni, Kun`; Ren, Q.; Liu, S.; Sun, B.; Lai, Y.-C.; Zhang, X.; Liu, R.  
@@ -68,7 +67,7 @@ Advances in asymmetric moist-electric generators with innovative heterogeneous s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADVANCED MATERIALS (RESEARCH ARTICLE)</div><img src='images/adma202305438-gra-0001-m.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADVANCED MATERIALS (RESEARCH ARTICLE)</div><img src='images/adma202305438-gra-0001-m.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[3] `Ni, Kun`; Xu, B.; Wang, Z.; Ren, Q.; Gu, W.; Sun, B.; Liu, R.; Zhang, X.  
