@@ -41,9 +41,9 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 PUBLICATIONS (2023-至今)
-### 第一作者论文发表统计：Adv. Mater. (2篇)、Energy & Environ. Sci. (1篇)  
+### 第一作者论文发表统计：Adv. Mater. (2篇)、Energy & Environ. Sci. (1篇)。  
 
-### 共同作者论文发表统计：Adv. Mater. (1篇)、Energy & Environ. Sci. (2篇)、Adv. Funct. Mater. (1篇)  
+### 共同作者论文发表统计(含一作)：Adv. Mater. (3篇)、Energy & Environ. Sci. (3篇)、Adv. Funct. Mater. (1篇)。  
 ---
 ### PUBLISHED JOURNALS (加#为共同第一作者，*为通讯作者)
 ---
