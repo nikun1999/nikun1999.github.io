@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-大家好 我是苏州大学的一名博士研究生。
+大家好！我目前就读于苏州大学，是一名新能源科学与工程专业的博士研究生。
  <a href='https://scholar.google.com/citations?user=15QpPTYAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 研究兴趣与方向：
@@ -34,9 +34,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历 (本科-至今)
-- *2025.09 - 至今*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="21pt"></a> 苏州大学 新能源科学与工程, 博士研究生 
-- *2022.09 - 2025.06*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="21pt"></a> 苏州大学 新能源科学与工程, 硕士研究生 
-- *2018.09 - 2022.06*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="21pt"></a> 苏州大学 新能源材料与器件, 本科生
+- *2025.09 - 至今*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="18pt"></a> 苏州大学 新能源科学与工程, 博士研究生 
+- *2022.09 - 2025.06*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="18pt"></a> 苏州大学 新能源科学与工程, 硕士研究生 
+- *2018.09 - 2022.06*, <a href="https://www.suda.edu.cn/"><img class="png" src="/images/SUDA_logo.png" width="18pt"></a> 苏州大学 新能源材料与器件, 本科生
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -44,7 +44,7 @@ redirect_from:
 
 ### JOURNALS
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2025</div><img src='images/Figure_ToC_pin.svg' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2025</div><img src='images/Figure_ToC_pin.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[1] `Ni, Kun`; Ren, Q.; Zhang, X.; Liu, R.  
@@ -54,7 +54,7 @@ A trilayer nanofluidic ionic diode for high-performance moisture-enabled energy 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy & Environmental Science 2024</div><img src='images/d4ee90116a_page-0001.svg' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy & Environmental Science 2024</div><img src='images/d4ee90116a_page-0001.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[2] `Ni, Kun`; Ren, Q.; Liu, S.; Sun, B.; Lai, Y.-C.; Zhang, X.; Liu, R.  
@@ -64,7 +64,7 @@ Advances in asymmetric moist-electric generators with innovative heterogeneous s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2023</div><img src='images/adma202305438-gra-0001-m.svg' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Materials 2023</div><img src='images/adma202305438-gra-0001-m.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[3] `Ni, Kun`; Xu, B.; Wang, Z.; Ren, Q.; Gu, W.; Sun, B.; Liu, R.; Zhang, X.  
