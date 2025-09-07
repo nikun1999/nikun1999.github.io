@@ -42,14 +42,18 @@ redirect_from:
 
 # 📝 PUBLICATIONS (2023-至今)
 
-### JOURNALS
+### 第一作者论文发表统计：Adv. Mater. (2篇)、Energy & Environ. Sci. (1篇)  
+
+### 共同作者论文发表统计：Adv. Mater. (1篇)、Energy & Environ. Sci. (2篇)、Adv. Funct. Mater. (1篇)  
+
+### JOURNALS (加#为共同第一作者，*为通讯作者)
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADVANCED MATERIALS (RESEARCH ARTICLE)</div><img src='images/Figure_ToC_pin.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[1] `Ni, Kun`; Ren, Q.; Zhang, X.; Liu, R.  
 A trilayer nanofluidic ionic diode for high-performance moisture-enabled energy harvesting and ionic logic operations.  
-<div class="badge">Adv. Mater. 2025, 37, 2513405. Accepted    
+**Adv. Mater.** 2025, 37, 2513405. Accepted    
 
 </div>
 </div>
