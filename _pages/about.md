@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-大家好！我目前就读于苏州大学，是一名新能源科学与工程专业的博士研究生。  
- <a href='https://scholar.google.com/citations?user=15QpPTYAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
+大家好！我目前就读于苏州大学，是一名新能源科学与工程专业的博士研究生<a href='https://scholar.google.com/citations?user=15QpPTYAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=15QpPTYAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)。  
 
 研究兴趣与方向：
 - 
