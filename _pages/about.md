@@ -44,7 +44,7 @@ redirect_from:
 
 ### JOURNALS
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADVANCED MATERIALS (RESEARCH ARTICLE)</div><img src='images/Figure_ToC_pin.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADVANCED MATERIALS (RESEARCH ARTICLE)      </div><img src='images/Figure_ToC_pin.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[1] `Ni, Kun`; Ren, Q.; Zhang, X.; Liu, R.  
@@ -64,7 +64,7 @@ Advances in asymmetric moist-electric generators with innovative heterogeneous s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADVANCED MATERIALS (RESEARCH ARTICLE)</div><img src='images/adma202305438-gra-0001-m.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ADVANCED MATERIALS (RESEARCH ARTICLE)      </div><img src='images/adma202305438-gra-0001-m.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	[3] `Ni, Kun`; Xu, B.; Wang, Z.; Ren, Q.; Gu, W.; Sun, B.; Liu, R.; Zhang, X.  
